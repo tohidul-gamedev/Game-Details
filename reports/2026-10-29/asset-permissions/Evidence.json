@@ -1,0 +1,25 @@
+{
+  "snapshot_sha256": "a7db9ec7969bf578ba8dbff2eef1eee694735e44a3cc9d6d423197fe38757a89",
+  "ids_from_screenshot": 10,
+  "ids_found_in_parsed_snapshot": 9,
+  "reference_rows": 37,
+  "property_references": 25,
+  "source_references": 12,
+  "distinct_instances": 31,
+  "counts_by_id": {
+    "137554909322431": 1,
+    "75160593025484": 1,
+    "136769849825926": 1,
+    "133285462741466": 1,
+    "119728152122091": 8,
+    "114284944645440": 8,
+    "8578316223": 1,
+    "137448731583582": 1,
+    "1014915761": 0,
+    "14795103410": 15
+  },
+  "plugin_id_in_decoded_donation_strings": false,
+  "studio_helper_executed": false,
+  "online_asset_permissions_checked": false,
+  "original_modified": false
+}

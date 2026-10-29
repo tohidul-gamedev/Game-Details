@@ -1,0 +1,16 @@
+{
+  "input": "Bangladeshi Tower 41.rbxl",
+  "sha256": "a7db9ec7969bf578ba8dbff2eef1eee694735e44a3cc9d6d423197fe38757a89",
+  "file_bytes": 16226350,
+  "header_classes": 206,
+  "parsed_classes": 206,
+  "header_instances": 79459,
+  "parsed_instances": 79459,
+  "source_scripts": 1410,
+  "unique_sources": 695,
+  "empty_sources": 0,
+  "runtime_tested": false,
+  "game_modified": false,
+  "published": false,
+  "method": "Read-only binary chunk decompression, INST/PROP/PRNT parsing; source pattern scan plus targeted source reading. No uploaded code executed."
+}
