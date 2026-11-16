@@ -1,0 +1,68 @@
+{
+  "canvas": [
+    1024,
+    256
+  ],
+  "progress": 0.6,
+  "frame": {
+    "x": 104,
+    "y": 36,
+    "width": 912,
+    "height": 184
+  },
+  "Icon": {
+    "x": 34,
+    "y": 34,
+    "width": 188,
+    "height": 188
+  },
+  "RadialTrack": {
+    "x": 8,
+    "y": 8,
+    "width": 240,
+    "height": 240
+  },
+  "RadialRing": {
+    "x": 8,
+    "y": 8,
+    "width": 240,
+    "height": 240
+  },
+  "BarTrack": {
+    "visible": false,
+    "x": 300,
+    "y": 180,
+    "width": 640,
+    "height": 24
+  },
+  "timer": {
+    "x": 280,
+    "y": 54,
+    "width": 690,
+    "height": 148,
+    "text": "6.1s",
+    "color": "#F4E8D6",
+    "outline": "#1A0C22",
+    "outlineThickness": 8
+  },
+  "sliceCenter": {
+    "Frame": [
+      96,
+      64,
+      928,
+      192
+    ],
+    "BarTrack": [
+      64,
+      32,
+      960,
+      96
+    ],
+    "BarFill": [
+      64,
+      32,
+      960,
+      96
+    ]
+  }
+}
